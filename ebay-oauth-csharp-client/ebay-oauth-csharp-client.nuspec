@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
-    <id>eBay.OAuth.Client</id>
-    <version>1.0.1</version>
+    <id>Hannibalystic.eBay.OAuth.Client</id>
+    <version>1.0.2</version>
     <title>eBay OAuth C# Client</title>
     <owners>eBay Inc.</owners>
-    <authors>Sandeep Dhiman</authors>
+    <authors>Sandeep Dhiman;Hannibalystic</authors>
     <licenseUrl>https://github.com/ebay/ebay-oauth-csharp-client/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/ebay/ebay-oauth-csharp-client/</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
